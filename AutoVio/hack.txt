@@ -1,0 +1,39 @@
+http://violympic.vn/SendExamScore.aspx?encrypt=26ec61e8a616493472738c276203b7d11c3f5166471320507dcbd22e17178ca87c10c6607d252f3d4b9fdd805bca1d20b7a468c3bab7a47cab6090f129b04dd67cd5f5f1fc18f21d17cf6c2896e5fb15f85b1c989c9ad6e86102ad4b275a4070dd7c9f0224688e3dfae5b59ed4f6eb1ecd1fb734c81b8d54be7ecc2cb1ac9718b95bc14981e6a451ef556e9aa5cfbe1e99accbbac906f031e45d42db38bfe3d0f6903e87c588e2d1070207e90fc23be82b9390585e1450e8d7012fc36e1b48f8&ran=LTOnZmzbsTeMhZZ4mFeCchRKUdmPYzBCkm7ntVbX8dCACUOGQewWrA!!
+
+
+
+
+
+GET http://violympic.vn/SendExamScore.aspx?which_round=1&block=6&key=0&doneexam=1&which_exam=1&aaa=15452:[d3191434e9f117adbda87df3af14dd23]&ran=qM0T5VH-1OUW3KUhh-QBVQy7A3nKxQshkm7ntVbX8dCACUOGQewWrA!! HTTP/1.1
+Host: violympic.vn
+Connection: keep-alive
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+Referer: http://violympic.vn/Exam.aspx?examid=OUKdAqjUAOc!&ran=qM0T5VH-1OUW3KUhh-QBVRRKUdmPYzBCkm7ntVbX8dCACUOGQewWrA!!
+Accept-Encoding: gzip, deflate, sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: ASP.NET_SessionId=bovn5hm22mrci4jfuijavfx4; popup=1
+
+GET http://violympic.vn/SendExamScore.aspx?encrypt=0912de62cb7326b115c08a65a2a90be0e3b118de5c6d30d1a8b27c417f64446fcf30c8fe172835c3995ad69b788d50154569f9cec906ad3421da0e04765040a7bc244169d6278f35d4be0a5b6ae9c65470f14eaa14dcde36e65c81c0dde15a68d03f1f6fa0fd05fd3876f817bc17e0b06249d8ad572f4ed7952950eb1a3d5ddb3b349f86afd22e64617610b0821ae3026ac8726f5898e5ef571fb0dc412bdb58db37bbe8f62920125fc8aadd9a9597fda5408a88f37e5c4bc1868eaea21808ba&ran=n4Z0SQ*IHYA*tde5Z8udqAMqnmBPgRemUqPivelTgsPqwvEmtHF5Ow!! HTTP/1.1
+Host: violympic.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://violympic.vn/Flash/SoSanh1.swf
+Cookie: popup=1; ASP.NET_SessionId=v2vj41gzg0nnqkbrfanqn5gy; AUTH_COOKIE=hthminh1|49165742|11/25/2016 8:19:55 PM
+DNT: 1
+Connection: keep-alive
+
+GET http://violympic.vn/SendExamScore.aspx?encrypt=53f935df01c8a5cf64c68ef60467c83a413a403f4f801601235f72e3707bddee2377b475bf989f62daa394a7e8e028c46fbc724fbb38e0b52ba37cfbf0f795cbbc244169d6278f35d4be0a5b6ae9c65470f14eaa14dcde36e65c81c0dde15a681606fcb217ca2ef1f91ca0f8f0cfc79ff57fed6f03b3bf0115e40fd47ceafad482df2e1e9e1ca5e0a6fc14f8fcd3b699b11bad6d2113120fd018b137de9c72bf49477676713924f2d4be5dcc0eac7c3557ca8fa11cd414b09de432b153232be2&ran=VAVCBoL-euiQPjrmysk56bbgsdRzzgFlyQ2awNE0Ngatf*T6wrFJbg!! HTTP/1.1
+Host: violympic.vn
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://violympic.vn/Flash/MeCung1.swf
+Cookie: popup=1; ASP.NET_SessionId=v2vj41gzg0nnqkbrfanqn5gy; AUTH_COOKIE=hthminh1|49165742|11/25/2016 8:19:55 PM
+DNT: 1
+Connection: keep-alive
+

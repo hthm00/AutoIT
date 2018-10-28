@@ -1,0 +1,336 @@
+background-color: rgb(48, 118, 191); border-radius: 10px; box-shadow: 1px 1px 2px gray; width: 200px; font-size: 1.3em; margin: 10px auto 0px; text-align: center; padding: 10px; color: white; cursor: pointer;
+style="background-color: rgb(221, 221, 221); border-radius: 10px; box-shadow: 1px 1px 2px gray; width: 200px; font-size: 1.3em; margin: 10px auto 0px; text-align: center; padding: 10px; color: rgb(170, 170, 170); cursor: pointer;"
+
+<div style="color: white; background-color: rgb(48, 118, 191);" cursor:="" color:="" padding:="" text-align:="" auto="" margin:="" font-size:="" width:="" box-shadow:="" border-radius:="" background-color:="" id="adk_inter_close">Close</div>
+
+<div id="adk_inter_close" style="  background-color: rgb(48, 118, 191);border-radius: 10px;-webkit-border-radius: 10px;box-shadow: gray 1px 1px 2px;width: 200px;font-size: 1.3em;margin:0 auto;margin-top: 10px;text-align: center;padding: 10px;color: white;cursor: pointer;">Start</div>
+
+<div id="adk_inter_close" style="  background-color: rgb(48, 118, 191);border-radius: 10px;-webkit-border-radius: 10px;box-shadow: gray 1px 1px 2px;width: 200px;font-size: 1.3em;margin:0 auto;margin-top: 10px;text-align: center;padding: 10px;color: white;cursor: pointer;">Start</div>
+
+watch vidoes  3'
+ad bistro 90" 
+hyprmX 200"
+peanuts labs 7
+
+onclick="webtraffic.next_page( window )"
+
+<img src="http://static.hyprmx.com/static_skins/boomerang_iframe_minimize/asstatic/nextstep_active.png" class="nextstepimg" alt="Next Page">
+
+<span onclick="webtraffic.next_page( window )" id="countdown_control"><img src="http://static.hyprmx.com/static_skins/boomerang_iframe_minimize/asstatic/nextstep_active.png" class="nextstepimg" alt="Next Page">00:00</span>
+
+
+
+integer>2084943</integer> 
+						<integer>2410706</integer> 
+						<integer>2429613</integer> 
+						<integer>2448415</integer> 
+						<integer>2516081</integer> 
+						<integer>2557914</integer> 
+						<integer>2600733</integer> 
+						<integer>2701181</integer> 
+						<integer>2716755</integer> 
+						<integer>2744331</integer> 
+						<integer>2783742</integer> 
+						<integer>2808953</integer> 
+						<integer>2853151</integer> 
+						<integer>2864842</integer> 
+						<integer>3008895</integer> 
+						<integer>3062492</integer> 
+						<integer>3160882</integer> 
+						<integer>3188272</integer> 
+						<integer>3257877</integer> 
+						<integer>3555388</integer> 
+						<integer>3647700</integer> 
+						<integer>3698300</integer> 
+						<integer>3759512</integer> 
+						<integer>3973135</integer> 
+						<integer>4118176</integer> 
+						<integer>4207401</integer> 
+						<integer>4402193</integer> 
+						<integer>4471368</integer> 
+						<integer>4615858</integer> 
+						<integer>4822972</integer> 
+						<integer>5360970</integer> 
+						<integer>5902562</integer> 
+						<integer>6014171</integer> 
+						<integer>6416371</integer> 
+						<integer>12782034</integer> 
+						<integer>13019561</integer> 
+						<integer>13716911</integer> 
+						<integer>14672413</integer> 
+						<integer>15145547</integer> 
+						<integer>37892872</integer> 
+						<integer>186772636</integer> 
+						<integer>237212631</integer> 
+						<integer>372122642</integer> 
+						<integer>493852652</integer> 
+						<integer>519402663</integer> 
+						<integer>688132703</integer> 
+						<integer>721882663</integer> 
+						<integer>758662663</integer> 
+						<integer>811136953</integer> 
+						<integer>811723356</integer> 
+						<integer>812041888</integer> 
+						<integer>812204214</integer> 
+						<integer>813435443</integer> 
+						<integer>814973500</integer> 
+						<integer>815292067</integer> 
+						<integer>815295388</integer> 
+						<integer>815455654</integer> 
+						<integer>815790791</integer> 
+						<integer>815990630</integer> 
+						<integer>816178152</integer> 
+						<integer>816332896</integer> 
+						<integer>816441929</integer> 
+						<integer>816539247</integer> 
+						<integer>816576740</integer> 
+						<integer>816811129</integer> 
+						<integer>817043681</integer> 
+						<integer>817046997</integer> 
+						<integer>817147902</integer> 
+						<integer>817382070</integer> 
+						<integer>817439198</integer> 
+						<integer>817482385</integer> 
+						<integer>817607061</integer> 
+						<integer>817695007</integer> 
+						<integer>818028453</integer> 
+						<integer>818131032</integer> 
+						<integer>818183817</integer> 
+						<integer>818315440</integer> 
+						<integer>818502766</integer> 
+						<integer>818697209</integer> 
+						<integer>818816112</integer> 
+						<integer>818924612</integer> 
+						<integer>818986792</integer> 
+						<integer>819085569</integer> 
+						<integer>819187018</integer> 
+						<integer>819262378</integer> 
+						<integer>819448477</integer> 
+						<integer>819600107</integer> 
+						<integer>819799315</integer> 
+						<integer>819938151</integer> 
+						<integer>820207317</integer> 
+
+
+    <integer>2991232</integer>
+    <integer>3029353</integer>
+    <integer>3072340</integer>
+    <integer>3145661</integer>
+    <integer>3216670</integer>
+    <integer>3248626</integer>
+    <integer>3257194</integer>
+    <integer>3489653</integer>
+    <integer>3508068</integer>
+    <integer>3554212</integer>
+    <integer>3682596</integer>
+    <integer>3730231</integer>
+    <integer>3819100</integer>
+    <integer>3949519</integer>
+    <integer>4011770</integer>
+    <integer>4177229</integer>
+    <integer>4457770</integer>
+    <integer>5264481</integer>
+    <integer>6748593</integer>
+    <integer>6896335</integer>
+    <integer>6896920</integer>
+    <integer>8038070</integer>
+    <integer>9750952</integer>
+    <integer>10791441</integer>
+    <integer>10965599</integer>
+    <integer>11613852</integer>
+    <integer>12304055</integer>
+    <integer>12705243</integer>
+    <integer>13719034</integer>
+    <integer>14431831</integer>
+    <integer>14632147</integer>
+    <integer>15040051</integer>
+    <integer>15161027</integer>
+    <integer>15236934</integer>
+    <integer>15239516</integer>
+    <integer>15611272</integer>
+    <integer>15642277</integer>
+    <integer>15752513</integer>
+    <integer>15884042</integer>
+    <integer>15920451</integer>
+    <integer>15923853</integer>
+    <integer>16006210</integer>
+    <integer>16397865</integer>
+    <integer>25342642</integer>
+    <integer>84023637</integer>
+    <integer>87252645</integer>
+    <integer>133542648</integer>
+    <integer>264262639</integer>
+    <integer>362982838</integer>
+    <integer>429082637</integer>
+    <integer>446402645</integer>
+    <integer>482193216</integer>
+    <integer>536892635</integer>
+    <integer>619282658</integer>
+    <integer>707763627</integer>
+    <integer>716392667</integer>
+    <integer>722412647</integer>
+    <integer>772202735</integer>
+    <integer>803863899</integer>
+    <integer>811013204</integer>
+    <integer>811583354</integer>
+    <integer>812042810</integer>
+    <integer>812239954</integer>
+    <integer>812482131</integer>
+    <integer>812817463</integer>
+    <integer>812957386</integer>
+    <integer>813195303</integer>
+    <integer>813257981</integer>
+    <integer>813471111</integer>
+    <integer>813475236</integer>
+    <integer>813551858</integer>
+    <integer>814169753</integer>
+    <integer>814173240</integer>
+    <integer>814345196</integer>
+    <integer>814873264</integer>
+    <integer>814877696</integer>
+    <integer>815085291</integer>
+    <integer>816440479</integer>
+    <integer>816606593</integer>
+    <integer>816719355</integer>
+    <integer>817000216</integer>
+    <integer>817239837</integer>
+    <integer>817655780</integer>
+    <integer>817733742</integer>
+    <integer>817754528</integer>
+    <integer>818041606</integer>
+    <integer>818639054</integer>
+    <integer>818755981</integer>
+    <integer>818890132</integer>
+    <integer>819457845</integer>
+    <integer>819908360</integer>
+    <integer>820095599</integer>
+
+
+integer>15660622</integer> 
+						<integer>15775736</integer> 
+						<integer>16375237</integer> 
+						<integer>16656656</integer> 
+						<integer>39082761</integer> 
+						<integer>84313399</integer> 
+						<integer>86642637</integer> 
+						<integer>101132648</integer> 
+						<integer>118502639</integer> 
+						<integer>274492650</integer> 
+						<integer>342092647</integer> 
+						<integer>471842644</integer> 
+						<integer>500102641</integer> 
+						<integer>543702859</integer> 
+						<integer>565212993</integer> 
+						<integer>612912731</integer> 
+						<integer>717232824</integer> 
+						<integer>774282723</integer> 
+						<integer>811788546</integer> 
+						<integer>811868343</integer> 
+						<integer>811962207</integer> 
+						<integer>812582257</integer> 
+						<integer>812711932</integer> 
+						<integer>813085263</integer> 
+						<integer>813373633</integer> 
+						<integer>816972249</integer> 
+						<integer>817281890</integer> 
+						<integer>817967737</integer> 
+						<integer>818017526</integer> 
+						<integer>818031832</integer> 
+						<integer>818145570</integer> 
+
+
+integer>706682691</integer> 
+						<integer>718353341</integer> 
+						<integer>745863577</integer> 
+						<integer>786062981</integer> 
+						<integer>810863955</integer> 
+						<integer>811577594</integer> 
+						<integer>811700923</integer> 
+						<integer>811758694</integer> 
+						<integer>811836716</integer> 
+						<integer>812256856</integer> 
+						<integer>812591239</integer> 
+						<integer>812829111</integer> 
+						<integer>813108320</integer> 
+						<integer>813361262</integer> 
+						<integer>813363910</integer> 
+						<integer>813474712</integer> 
+						<integer>813502780</integer> 
+						<integer>814183236</integer> 
+						<integer>814185754</integer> 
+						<integer>814390109</integer> 
+						<integer>814419510</integer> 
+						<integer>814422199</integer> 
+						<integer>815006903</integer> 
+						<integer>815042846</integer> 
+						<integer>815240944</integer> 
+						<integer>815292681</integer> 
+						<integer>815394534</integer> 
+						<integer>815481038</integer> 
+						<integer>815656874</integer> 
+						<integer>815882952</integer> 
+						<integer>815884296</integer> 
+						<integer>815950898</integer> 
+						<integer>816040381</integer> 
+						<integer>816081484</integer> 
+						<integer>816363474</integer> 
+						<integer>816451061</integer> 
+						<integer>816859198</integer> 
+						<integer>816963170</integer> 
+						<integer>817650445</integer> 
+						<integer>817808654</integer> 
+						<integer>817906873</integer> 
+						<integer>817959287</integer> 
+						<integer>818240605</integer> 
+						<integer>818314088</integer> 
+						<integer>818372105</integer> 
+						<integer>818510342</integer> 
+						<integer>818761320</integer> 
+						<integer>818877896</integer> 
+						<integer>819124494</integer> 
+						<integer>820003248</integer> 
+						<integer>820050860</integer> 
+
+
+
+integer>563787033</integer> 
+						<integer>706673548</integer> 
+						<integer>722342706</integer> 
+						<integer>756632781</integer> 
+						<integer>764602682</integer> 
+						<integer>810807251</integer> 
+						<integer>810952899</integer> 
+						<integer>811424967</integer> 
+						<integer>811776679</integer> 
+						<integer>811881975</integer> 
+						<integer>812054987</integer> 
+						<integer>812189953</integer> 
+						<integer>812314748</integer> 
+						<integer>812519913</integer> 
+						<integer>812556049</integer> 
+						<integer>812629162</integer> 
+						<integer>813017818</integer> 
+						<integer>813428876</integer> 
+						<integer>813964408</integer> 
+						<integer>814789884</integer> 
+						<integer>814834288</integer> 
+						<integer>815039771</integer> 
+						<integer>815080748</integer> 
+						<integer>815084298</integer> 
+						<integer>815242410</integer> 
+						<integer>815278524</integer> 
+						<integer>815596138</integer> 
+						<integer>815744373</integer> 
+						<integer>815851178</integer> 
+						<integer>816689141</integer> 
+						<integer>817862700</integer> 
+						<integer>818111933</integer> 
+						<integer>818641570</integer> 
+						<integer>818852852</integer> 
+						<integer>818895547</integer> 
+						<integer>819038013</integer> 
+						<integer>819185279</integer> 
+						<integer>819277353</integer> 
+						<integer>819577216</integer> 
+						<integer>819660891</integer> 
+						<integer>819700112</integer> 
